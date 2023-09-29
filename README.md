@@ -33,7 +33,7 @@ The AutoML model follows a structured workflow and provides a user-friendly inte
 
 ## Hosting
 
-
+https://autovizml-giuenp97cq6sz3fcfprkpm.streamlit.app/
 
 
 ## Requirements
@@ -52,8 +52,8 @@ The AutoML model follows a structured workflow and provides a user-friendly inte
    ```bash
    git clone https://github.com/calicartels/AutoVizML.git
 
-2. Install the required dependencies using the command <b>pip install -r requirements.txt
-3. Run this command <b>streamlit run main.py
+2. Install the required dependencies using the command **pip install -r requirements.txt**
+3. Run this command **streamlit run main.py**
 
 
 ## Contributing
