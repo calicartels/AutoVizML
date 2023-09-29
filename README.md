@@ -53,7 +53,7 @@ The AutoML model follows a structured workflow and provides a user-friendly inte
    git clone https://github.com/calicartels/AutoVizML.git
 
 2. Install the required dependencies using the command <b>pip install -r requirements.txt
-3. Run this command <b> streamlit run main.py
+3. Run this command <b>streamlit run main.py
 
 
 ## Contributing
